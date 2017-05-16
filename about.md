@@ -1,20 +1,8 @@
-<div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{Emil-501.github.io/images/touxiang2.jpg}}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">欢迎来到SDN网络实验室</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="https://emil-501.github.io/">Blog</a>
-            <a href="https://emil-501.github.io/about/">About</a>
-          </nav>
-        </header>
-      </div>
-   </div>
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 SDN网络实验室由福州大学数学与计算机学院成立于XXXX年，其主要成员有张栋副教授，。。。。。。，其主要研究方向包括SDN，数据平面可编程，P4网络虚拟化。。。。
 
