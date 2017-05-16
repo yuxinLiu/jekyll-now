@@ -1,16 +1,2 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
-name: 欢迎来到SDN网络实验室
-
-# Short bio or description (displayed in the header)
-description: 
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: Emil-501.github.io/images/touxiang2.jpg
-#
-# Flags below are optional
-#
+theme: jekyll-theme-cayman
 
